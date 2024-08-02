@@ -1,0 +1,4 @@
+1. npm init playwright@latest
+2. npx playwright test Medusa_Homepage.spec.js --headed
+3. npx playwright codegen
+4. npx playwright show-report
